@@ -1,1 +1,1 @@
-# ai-forest-fire-detection
+# ai-wildfire-detection

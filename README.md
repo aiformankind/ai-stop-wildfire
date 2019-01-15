@@ -18,3 +18,5 @@ Among Firefighters](https://symbiosisonlinepublishing.com/computer-science-techn
 * [Forest Fire Detection Techniques Survey based on Wireless Sensor Network](https://www.ijcaonline.org/archives/volume179/number52/alsabbagh-2018-ijca-917341.pdf)
 * [Forest Fire Monitoring](https://www.intechopen.com/books/forest-fire/forest-fire-monitoring)
 * [Smart and Low Cost Technique for Forest Fire Detection using Wireless Sensor Network](https://www.researchgate.net/publication/260458364_Smart_and_Low_Cost_Technique_for_Forest_Fire_Detection_using_Wireless_Sensor_Network)
+* [Accurate Fire Detection through Fully Convolutional Network](http://profesores.elo.utfsm.cl/~mzuniga/FONDEF/LACNEM2017.pdf)
+* [Saliency Detection and Deep Learning-Based Wildfire Identification in UAV Imagery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876738/)
